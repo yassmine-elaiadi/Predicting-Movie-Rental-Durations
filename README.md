@@ -132,5 +132,5 @@ Potential improvements include:
 ## Author
 
 Yassmine Elaiadi
-Master's Student in Data Science \n 
+Master's Student in Data Science &  
 Associate Data Scientist (DataCamp)
